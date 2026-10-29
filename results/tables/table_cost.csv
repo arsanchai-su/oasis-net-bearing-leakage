@@ -1,0 +1,13 @@
+config,n_params,train_time_s,infer_ms_per_window,input_ms_per_window
+Features+GBM,,19.941,0.026,
+OASIS v1 w/o adversary,28369540.0,142.595,2.295,2.452
+OASIS v1 w/o image branch,53770.0,2.623,0.031,0.127
+OASIS v1 w/o order branch,28119172.0,123.502,2.296,2.325
+OASIS w/o image branch,53770.0,2.008,0.011,0.127
+OASIS w/o order branch,28119172.0,145.235,2.268,2.325
+OASIS-Net (proposed),28369540.0,142.082,2.275,2.452
+OASIS-Net v1 (a priori),28369540.0,140.714,2.302,2.452
+Raw+WDCNN,47910.0,2.454,0.019,
+STFT+Hybrid,40350916.0,145.206,2.74,0.22
+STFT+ResNet18,11181642.0,497.748,2.823,0.22
+STFT+SwinT,27527044.0,121.017,2.283,0.22

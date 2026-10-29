@@ -1,0 +1,5 @@
+config,CWRU L0,PU L0,CWRU L3,PU L3,PU X,PU A2R,Leakage-free mean,Δ vs full (leakage-free)
+OASIS-Net (proposed),99.9,99.9,52.1,55.5,46.0,52.7,51.6,0.0
+OASIS w/o order branch,100.0,99.8,49.0,53.0,49.5,51.1,50.6,-1.0
+OASIS w/o image branch,81.0,66.3,32.7,56.4,51.9,55.2,49.1,-2.5
+OASIS-Net v1 (a priori),100.0,97.0,51.3,54.4,47.7,54.1,51.9,0.3

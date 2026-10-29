@@ -1,0 +1,35 @@
+{
+ "selected": {
+  "enc": "CWT",
+  "img": "swin",
+  "lam": 0.0,
+  "mix": false,
+  "inner_f1": 0.6934672990103381
+ },
+ "ranking": {
+  "CWT|swin|0.0|0": 0.6935,
+  "CWT|hybrid|0.0|0": 0.6112,
+  "CWT|swin|0.3|0": 0.5973,
+  "CWT|hybrid|0.0|1": 0.5563,
+  "CWT|swin|0.3|1": 0.5475,
+  "CWT|swin|0.0|1": 0.5305,
+  "CWT|hybrid|0.3|0": 0.5045,
+  "CWT|swin|1.0|0": 0.4827,
+  "CWT|hybrid|1.0|1": 0.4674,
+  "STFT|hybrid|0.3|1": 0.4477,
+  "CWT|hybrid|0.3|1": 0.443,
+  "CWT|hybrid|1.0|0": 0.4303,
+  "STFT|hybrid|0.0|1": 0.4243,
+  "CWT|swin|1.0|1": 0.4224,
+  "STFT|hybrid|0.0|0": 0.4196,
+  "STFT|swin|0.3|1": 0.4134,
+  "STFT|swin|0.0|1": 0.4036,
+  "STFT|swin|0.3|0": 0.4029,
+  "STFT|hybrid|0.3|0": 0.3824,
+  "STFT|hybrid|1.0|1": 0.3779,
+  "STFT|swin|1.0|1": 0.3674,
+  "STFT|hybrid|1.0|0": 0.3619,
+  "STFT|swin|1.0|0": 0.2849,
+  "STFT|swin|0.0|0": 0.2338
+ }
+}

@@ -1,0 +1,7 @@
+config,mean_rank
+STFT+Hybrid,1.75
+Features+GBM,2.625
+STFT+SwinT,3.375
+OASIS-Net (proposed),3.625
+Raw+WDCNN,4.5
+STFT+ResNet18,5.125
